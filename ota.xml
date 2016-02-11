@@ -286,4 +286,22 @@
     </oneplus2>
     </Stable>
 
+    <Stable>
+        <cancro>
+            <Filename>cyanpop_cancro-MM_6.0.1-5.6-NIGHTLY-20160211.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download"
+                description="">https://www.androidfilehost.com/?fid=24411628330025914</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="">http://opengapps.org/</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="">http://forum.xda-developers.com/xiaomi-mi-3/development/rom-kernel-cyanpop-ubertc-t3304432</XDAUrl>
+    </cancro>
+    </Stable>
+
 </CyanPopOTA>
