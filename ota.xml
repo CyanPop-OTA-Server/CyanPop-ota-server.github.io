@@ -109,6 +109,8 @@
                 description="">http://goo.gl/DCcMqc</DONATIONUrl>
     </i9300>
     </Stable>
+
+    <Stable>
         <condor>
             <Filename>cyanpop_condor-mm_6.0.1-v6.0-NIGHTLY-20160317</Filename>
             <RomUrl
