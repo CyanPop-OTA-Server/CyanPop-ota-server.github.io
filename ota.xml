@@ -19,6 +19,10 @@
                 id="donate"
                 title="Donate to cyanpop"
                 description="">http://goo.gl/DCcMqc</DONATIONUrl>
+            <downloadUrl
+                id="download"
+                title="Experimental builds (WIP)"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/exp/cyanpop_thea-mm_6.0.1-v6.2-EXPERIMENTAL-20160401.zip</downloadUrl>
     </thea>
     </Stable>
 
