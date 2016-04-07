@@ -2,11 +2,11 @@
 <CyanPopOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <thea>
-            <Filename>cyanpop_thea-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_thea-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/thea/cyanpop_thea-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -19,20 +19,16 @@
                 id="donate"
                 title="Donate to cyanpop"
                 description="">http://goo.gl/DCcMqc</DONATIONUrl>
-            <downloadUrl
-                id="download"
-                title="Experimental builds (WIP)"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/exp/cyanpop_thea-mm_6.0.1-v6.2-EXPERIMENTAL-20160401.zip</downloadUrl>
     </thea>
     </Stable>
 
     <Stable>
         <titan>
-            <Filename>cyanpop_titan-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_titan-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/titan/cyanpop_titan-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -50,11 +46,11 @@
 
     <Stable>
         <falcon>
-            <Filename>cyanpop_falcon-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_falcon-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/falcon/cyanpop_falcon-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -72,11 +68,11 @@
 
     <Stable>
         <peregrine>
-            <Filename>cyanpop_peregrine-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_peregrine-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/peregrine/cyanpop_peregrine-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -94,11 +90,11 @@
 
     <Stable>
         <surnia>
-            <Filename>cyanpop_surnia-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_surnia-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/surnia/cyanpop_surnia-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/surnia/cyanpop_surnia-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -116,11 +112,11 @@
 
     <Stable>
         <i9300>
-            <Filename>cyanpop_i9300-MM_6.0.1-6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_i9300-MM_6.0.1-6.2-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/i9300/cyanpop_i9300-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/i9300/cyanpop_i9300-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -138,11 +134,11 @@
 
     <Stable>
         <condor>
-            <Filename>cyanpop_condor-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_condor-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/condor/cyanpop_condor-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -160,11 +156,11 @@
 
     <Stable>
         <victara>
-            <Filename>cyanpop_victara-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_victara-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/victara/cyanpop_victara-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/victara/cyanpop_victara-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -182,11 +178,11 @@
 
     <Stable>
         <otus>
-            <Filename>cyanpop_otus-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_otus-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/otus/cyanpop_otus-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/otus/cyanpop_otus-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -204,11 +200,11 @@
 
     <Stable>
         <bacon>
-            <Filename>cyanpop_bacon-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_bacon-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/bacon/cyanpop_bacon-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/bacon/cyanpop_bacon-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -226,11 +222,11 @@
 
     <Stable>
         <onyx>
-            <Filename>cyanpop_onyx-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_onyx-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/onyx/cyanpop_onyx-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/onyx/cyanpop_onyx-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -248,11 +244,11 @@
 
     <Stable>
         <hammerhead>
-            <Filename>cyanpop_hammerhead-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_hammerhead-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/hammerhead/cyanpop_hammerhead-mm_6.0.1-v6.2-NIGHTLY-20160401.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/hammerhead/cyanpop_hammerhead-mm_6.0.1-v6.3-NIGHTLY-20160407.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -270,11 +266,11 @@
 
     <Stable>
         <shamu>
-            <Filename>cyanpop_shamu-mm_6.0.1-v6.2-NIGHTLY-20160401</Filename>
+            <Filename>cyanpop_shamu-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/shamu/cyanpop_shamu-mm_6.0.1-v6.2-NIGHTLY-20160320.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/shamu/cyanpop_shamu-mm_6.0.1-v6.3-NIGHTLY-20160320.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -288,6 +284,28 @@
                 title="Donate to cyanpop"
                 description="">http://goo.gl/DCcMqc</DONATIONUrl>
     </shamu>
+    </Stable>
+
+    <Stable>
+        <osprey>
+            <Filename>cyanpop_osprey-mm_6.0.1-v6.3-NIGHTLY-20160407</Filename>
+            <RomUrl
+                id="rom"
+                title="Download"
+                description="">https://s.basketbuild.com/uploads/devs/Cyanpop/osprey/cyanpop_osprey-mm_6.0.1-v6.3-NIGHTLY-20160320.zip</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="">http://opengapps.org/</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="">http://goo.gl/rygO8n</XDAUrl>
+            <DONATIONUrl
+                id="donate"
+                title="Donate to cyanpop"
+                description="">http://goo.gl/DCcMqc</DONATIONUrl>
+    </osprey>
     </Stable>
 
 </CyanPopOTA>
